@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/toomuch/toomuch/bin/Debug/net6.0/toomuch
+/Users/azatsaifullin/Projects/toomuch/toomuch/bin/Debug/net6.0/toomuch.deps.json
+/Users/azatsaifullin/Projects/toomuch/toomuch/bin/Debug/net6.0/toomuch.runtimeconfig.json
+/Users/azatsaifullin/Projects/toomuch/toomuch/bin/Debug/net6.0/toomuch.dll
+/Users/azatsaifullin/Projects/toomuch/toomuch/bin/Debug/net6.0/toomuch.pdb
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.dll
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/refint/toomuch.dll
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.pdb
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/toomuch.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/toomuch/toomuch/obj/Debug/net6.0/ref/toomuch.dll

@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/toomuch/Homework/bin/Debug/net6.0/Homework
+/Users/azatsaifullin/Projects/toomuch/Homework/bin/Debug/net6.0/Homework.deps.json
+/Users/azatsaifullin/Projects/toomuch/Homework/bin/Debug/net6.0/Homework.runtimeconfig.json
+/Users/azatsaifullin/Projects/toomuch/Homework/bin/Debug/net6.0/Homework.dll
+/Users/azatsaifullin/Projects/toomuch/Homework/bin/Debug/net6.0/Homework.pdb
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.dll
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/refint/Homework.dll
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.pdb
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/Homework.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/toomuch/Homework/obj/Debug/net6.0/ref/Homework.dll

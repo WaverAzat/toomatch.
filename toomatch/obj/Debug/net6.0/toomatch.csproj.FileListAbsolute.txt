@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/toomuch/toomatch/bin/Debug/net6.0/toomatch
+/Users/azatsaifullin/Projects/toomuch/toomatch/bin/Debug/net6.0/toomatch.deps.json
+/Users/azatsaifullin/Projects/toomuch/toomatch/bin/Debug/net6.0/toomatch.runtimeconfig.json
+/Users/azatsaifullin/Projects/toomuch/toomatch/bin/Debug/net6.0/toomatch.dll
+/Users/azatsaifullin/Projects/toomuch/toomatch/bin/Debug/net6.0/toomatch.pdb
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.dll
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/refint/toomatch.dll
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.pdb
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/toomatch.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/toomuch/toomatch/obj/Debug/net6.0/ref/toomatch.dll
